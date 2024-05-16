@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854932331237",
+    "project_id": "zamlista-6cdf1",
+    "storage_bucket": "zamlista-6cdf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854932331237:android:62038f025ed3d0284d920c",
+        "android_client_info": {
+          "package_name": "com.example.zamlista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOmzExI0pYrag2UyRImgw2Z0lswVKBqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
